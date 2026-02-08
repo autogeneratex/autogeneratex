@@ -1,0 +1,9 @@
+
+{
+  "name": "Auto Gen X - High Ticket Detailer Scaling",
+  "description": "Premium scaling agency for mobile detailers. We specialize in transforming detailing businesses into high-ticket powerhouses through content strategy, Meta Ads, and sales training for Ceramic Coating, PPF, and Tint.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
